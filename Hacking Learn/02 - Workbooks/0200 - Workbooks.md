@@ -1,0 +1,10 @@
+[[0.000 - Security Lab Vault Structure]]
+
+├── [[0200 - Workbooks]]
+│   ├── [[0201.000 Kali Overview of Objectives]]
+│   ├── [[0202.000 Metasploitable 2 Workbook]]
+│   ├── [[0203.000 Metasploitable 3 Workbook]]
+│   ├── [[0204.000 DVWA Workbook]]
+│   ├── [[0205.000 OWASP BWA Workbook]]
+│   ├── [[0206.000 VulnHub Workbook Template]]
+│   └── [[0207.000 AD Lab Workbook]]

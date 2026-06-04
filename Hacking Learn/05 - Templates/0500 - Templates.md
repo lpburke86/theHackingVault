@@ -1,0 +1,10 @@
+[[0.000 - Security Lab Vault Structure]]
+## ├── [[0500 - Templates]]
+│   ├── [[0501 Machine Analysis Template]]
+│   ├── [[0502 Recon Template]]
+│   ├── [[0503 Vulnerability Matrix Template]]
+│   ├── [[0504 Hardening Plan Template]]
+│   ├── [[0505 Weekly Journal Template]]
+│   ├── [[0506 Challenge ... {{Name}}]]
+│   └── [[0507 Pentest Report — {{Assessment Name}}]]
+

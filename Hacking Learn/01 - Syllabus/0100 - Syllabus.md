@@ -1,0 +1,13 @@
+[[0.000 - Security Lab Vault Structure]]
+
+├── [[0100 - Syllabus]]
+│   ├──  [[0101.000 Week 01 - Kali Foundations, Networking, and Workflow  Setup]]
+│   ├── [[0102.000 Week 02 - Recon & Enumeration]]
+│   ├── [[0103.000 Week 03 — Web Exploitation I (DVWA)]]
+│   ├── [[0104.000 Week 04 — Web Exploitation II (Mutillidae)]]
+│   ├── [[0105.000 Week 05 — Web Exploitation III (WebGoat)]]
+│   ├── [[0106.000 Week 06 — Modern Web Attacks (OWASP Juice Shop)]]
+│   ├── [[0107.000 Week 07 — System Exploitation (Metasploitable 2)]]
+│   ├──[[0108.000 Week 08 — Windows Exploitation (Metasploitable 3)]]
+│   ├── [[0109.000 Week 09 - OSCP‑Style VulnHub Machines]]
+│   └── [[0110.000 Week 10 - Active Directory Attack Chain (Capstone)]]
