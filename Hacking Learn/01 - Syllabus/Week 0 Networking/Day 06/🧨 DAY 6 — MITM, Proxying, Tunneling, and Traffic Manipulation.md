@@ -1,3 +1,6 @@
+
+# 🧨 DAY 6 — MITM, Proxying, Tunneling, and Traffic Manipulation
+
 Day 6 is where you stop being a *listener* of networks and become a **manipulator** of them.
 
 If Day 4 taught you to *see* traffic…  
